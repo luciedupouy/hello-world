@@ -6,3 +6,6 @@ Je m'appelle **Lucie DUPOUY**
 
 
 Je suis étudiante à l'ENSC. 
+
+Je rajoute des informations pour la question suivante.  
+*Il faudra donc commiter les modifications*
